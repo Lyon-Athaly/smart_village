@@ -1,6 +1,6 @@
 {
-    "name": "tugas_mobile",
-    "short_name": "tugas_mobile",
+    "name": "smartvillage",
+    "short_name": "smartvillage",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

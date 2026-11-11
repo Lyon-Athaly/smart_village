@@ -1,4 +1,4 @@
-package com.example.tugas_mobile
+package com.example.smartvillage
 
 import io.flutter.embedding.android.FlutterActivity
 
